@@ -9,7 +9,7 @@ var breakDate = moment('2018-03-05'); // This week will not be counted
 var numOfWeeks = 13;
 // PARAMETERS 
 
-var data = JSON.parse(fs.readFileSync('timetable-new.json'));
+var data = JSON.parse(fs.readFileSync('timetable.json'));
 
 var cWeek; // Current Week
 for (cWeek = 1; cWeek <= numOfWeeks; cWeek++) {
@@ -53,6 +53,5 @@ data['EXAMS'].map(exam => {
     summary: "[EXAM] " + exam.text,
   });
 })
-
 
 fs.writeFileSync('ntu.ical', cal.toString());

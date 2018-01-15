@@ -103,4 +103,4 @@ struct['EXAMS'] = detailsData.slice(1, detailsData.length - 1).map(data => ({
   size: 2,
 })).filter(data => data.date.length > 5);
 
-fs.writeFileSync('timetable-new.json', JSON.stringify(struct));
+fs.writeFileSync('timetable.json', JSON.stringify(struct));
