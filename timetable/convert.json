@@ -1,0 +1,226 @@
+{
+  "MON": [
+    {
+      "time": "0930",
+      "text": "CE3007-TUT-TEP1",
+      "size": 1,
+      "startWeek": "2",
+      "altWeek": false,
+      "loc": {
+        "location": [
+          1.34578460382,
+          103.68136050425
+        ],
+        "floorplan": "http://maps.ntu.edu.sg/static/floorplans/NS%205TH%20LEVEL.gif",
+        "unit": "NS4-05-96",
+        "name": "Tutorial Room + 18"
+      }
+    },
+    {
+      "time": "1030",
+      "text": "CE3006-LAB-TER1",
+      "size": 1,
+      "startWeek": "1",
+      "altWeek": true,
+      "loc": {
+        "location": [
+          1.34615083903,
+          103.68172171664
+        ],
+        "floorplan": "",
+        "unit": "N4-01A-03",
+        "name": "Hardware Lab 1"
+      }
+    },
+    {
+      "time": "1030",
+      "text": "CE3007-LEC/STUDIO-CE3",
+      "size": 1,
+      "startWeek": 1,
+      "altWeek": false,
+      "loc": {
+        "location": [
+          1.3463825917,
+          103.68083600323
+        ],
+        "floorplan": "http://maps.ntu.edu.sg/static/floorplans/NS%204TH%20LEVEL.gif",
+        "unit": "NS2-04-15",
+        "name": "LT11"
+      }
+    },
+    {
+      "time": "1130",
+      "text": "CE3006-LAB-TER1",
+      "size": 1,
+      "startWeek": "1",
+      "altWeek": true,
+      "loc": {
+        "location": [
+          1.34615083903,
+          103.68172171664
+        ],
+        "floorplan": "",
+        "unit": "N4-01A-03",
+        "name": "Hardware Lab 1"
+      }
+    },
+    {
+      "time": "1130",
+      "text": "CE3007-LEC/STUDIO-CE3",
+      "size": 1,
+      "startWeek": 1,
+      "altWeek": false,
+      "loc": {
+        "location": [
+          1.3463825917,
+          103.68083600323
+        ],
+        "floorplan": "http://maps.ntu.edu.sg/static/floorplans/NS%204TH%20LEVEL.gif",
+        "unit": "NS2-04-15",
+        "name": "LT11"
+      }
+    },
+    {
+      "time": "1430",
+      "text": "CE3007-LAB-TEP1",
+      "size": 2,
+      "startWeek": "2",
+      "altWeek": true,
+      "loc": {
+        "location": [
+          1.34615083903,
+          103.68172171664
+        ],
+        "floorplan": "",
+        "unit": "N4-01A-03",
+        "name": "Hardware Lab 1"
+      }
+    }
+  ],
+  "TUE": [
+    {
+      "time": "1630",
+      "text": "CE3006-TUT-TER1",
+      "size": 1,
+      "startWeek": "2",
+      "altWeek": false,
+      "loc": {
+        "location": [
+          1.34628255696,
+          103.68084355793
+        ],
+        "floorplan": "http://maps.ntu.edu.sg/static/floorplans/NS%205TH%20LEVEL.gif",
+        "unit": "NS2-05-30",
+        "name": "Tutorial Room + 37"
+      }
+    }
+  ],
+  "WED": [
+    {
+      "time": "0930",
+      "text": "CE4045-LEC/STUDIO-CE4",
+      "size": 2,
+      "startWeek": 1,
+      "altWeek": false,
+      "loc": {
+        "location": [
+          1.3463825917,
+          103.68083600323
+        ],
+        "floorplan": "http://maps.ntu.edu.sg/static/floorplans/NS%204TH%20LEVEL.gif",
+        "unit": "NS2-04-15",
+        "name": "LT11"
+      }
+    }
+  ],
+  "THU": [
+    {
+      "time": "1030",
+      "text": "CE4032-TUT-CE4",
+      "size": 1,
+      "startWeek": 1,
+      "altWeek": false,
+      "loc": {
+        "location": [
+          1.34542133965,
+          103.68134141478
+        ],
+        "floorplan": "http://maps.ntu.edu.sg/static/floorplans/NS%204TH%20LEVEL.gif",
+        "unit": "NS4-04-41",
+        "name": "LT10"
+      }
+    },
+    {
+      "time": "1330",
+      "text": "CE4032-LEC/STUDIO-CE4",
+      "size": 2,
+      "startWeek": 1,
+      "altWeek": false,
+      "loc": {
+        "location": [
+          1.34542133965,
+          103.68134141478
+        ],
+        "floorplan": "http://maps.ntu.edu.sg/static/floorplans/NS%204TH%20LEVEL.gif",
+        "unit": "NS4-04-41",
+        "name": "LT10"
+      }
+    },
+    {
+      "time": "1530",
+      "text": "CE3006-LEC/STUDIO-CE3",
+      "size": 2,
+      "startWeek": 1,
+      "altWeek": false,
+      "loc": {
+        "location": [
+          1.34542133965,
+          103.68134141478
+        ],
+        "floorplan": "http://maps.ntu.edu.sg/static/floorplans/NS%204TH%20LEVEL.gif",
+        "unit": "NS4-04-41",
+        "name": "LT10"
+      }
+    }
+  ],
+  "FRI": [
+    {
+      "time": "1330",
+      "text": "CE4045-TUT-CE4",
+      "size": 1,
+      "startWeek": 1,
+      "altWeek": false,
+      "loc": {
+        "location": [
+          1.3463825917,
+          103.68083600323
+        ],
+        "floorplan": "http://maps.ntu.edu.sg/static/floorplans/NS%204TH%20LEVEL.gif",
+        "unit": "NS2-04-15",
+        "name": "LT11"
+      }
+    }
+  ],
+  "EXAMS": [
+    {
+      "text": "CE3006 DIGITAL COMMUNICATIONS",
+      "date": "23-NOV-18 14:30",
+      "size": 2
+    },
+    {
+      "text": "CE3007 DIGITAL SIGNAL PROCESSING",
+      "date": "28-NOV-18 13:00",
+      "size": 2
+    },
+    {
+      "text": "CE4032 DATA ANALYTICS &amp; MINING",
+      "date": "3-DEC-18 09:00",
+      "size": 2
+    },
+    {
+      "text": "CE4045 NATURAL LANGUAGE PROCESSING",
+      "date": "5-DEC-18 17:00",
+      "size": 2
+    }
+  ]
+}

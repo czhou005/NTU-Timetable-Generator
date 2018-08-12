@@ -1,0 +1,830 @@
+{
+  "status": 1,
+  "what": {
+    "alternatives": [],
+    "businesses": [
+      {
+        "category": "Tutorial Rooms +",
+        "phone_number": "",
+        "name": "Tutorial Room + 33",
+        "tags": [
+          "tr",
+          "tr+",
+          "tr33",
+          "tr+33",
+          "+33"
+        ],
+        "id": 4657,
+        "link": "Tutorial Room + 33",
+        "location": {
+          "businesses": [
+            1136,
+            2650,
+            2651,
+            2656,
+            2657,
+            2658,
+            2659,
+            3203,
+            4097,
+            4653,
+            4654,
+            4655,
+            4656
+          ],
+          "uid": "61e0bdb9-0086-402c-882c-72f2daf8c930",
+          "type": "LOCATION",
+          "geometry": {
+            "bounds": [
+              1.34610897591,
+              103.68084879437,
+              1.34610897591,
+              103.68084879437
+            ],
+            "location": [
+              1.34610897591,
+              103.68084879437
+            ],
+            "viewport": [
+              1.34610897591,
+              103.68084879437,
+              1.34610897591,
+              103.68084879437
+            ],
+            "location_type": "ROOFTOP"
+          },
+          "address_components": [
+            {
+              "type": "landmark",
+              "name": "Block NS2",
+              "short_name": "Block NS2"
+            }
+          ],
+          "formatted_address": "Block NS2",
+          "id": 629
+        },
+        "uid": "d2b9004f-c068-488f-bf28-ca38c964720b",
+        "type": "BUSINESS",
+        "unit_number": "NS2-05-26",
+        "website_url": "http://www.ntu.edu.sg/odfm/usefulinfo/academicfacilities",
+        "more_info": {
+          "info": "",
+          "photo": "",
+          "website": "http://www.ntu.edu.sg/odfm/usefulinfo/academicfacilities",
+          "phone_number": "",
+          "floorplan": "NS 5TH LEVEL"
+        }
+      }
+    ],
+    "name": "tutorial room + 33"
+  },
+  "directions": {},
+  "where": {
+    "email": [
+      "Tutorial Room + 33",
+      "Tutorial Room + 33\nBlock NS2, NS2-05-26"
+    ],
+    "html": "<div class=\"bar\"><a href=\"/maps#q:Tutorial Rooms +\">&laquo; List of Tutorial Rooms +</a></div><div class=place><img class=marker src=\"/static/img/2/icon/panel/a.gif?v=2e253\"/><div class=locf><strong><a href='/maps#q:Tutorial Room + 33'>Tutorial Room + 33</a></strong><br> Block NS2<br> NS2-05-26</div><p><a id=\"tooldt\" href=\"\">directions to here</a> <a id=\"tooldf\" href=\"\">directions from here</a></p><div id=\"minibar\" hasLayout=\"true\"><div id=\"search_tip\" hasLayout=\"true\"></div><form class=msf id=\"sidebar_form\"><span class=sel id=toolsf>Starting from</span><span id=toolea>Ending at</span><input type=text><input type=submit value=\"\"><input type=hidden value=\"tutorial room + 33\"></form></div></div><div id=mal><div class=bar2><h4>More about this location:</h4></div><div class=info><h5>Website</h5><p><a href=\"http://www.ntu.edu.sg/odfm/usefulinfo/academicfacilities\">http://www.ntu.edu.sg/odfm/usefulinfo/academicfacilities</a></p></div><div class=info><h5>Floor plan</h5><p><a class=\"fp\" uid=\"NS 5TH LEVEL\" href=\"\">NS 5TH LEVEL</a></p></div></div><div id=aah><div class=bar2><h4>Amenities nearby:</h4></div><div class=\"amenitiesheader aed\"><img src=\"/static/img/2/icon/panel/amenities/aed.png?v=8709c\"><a href=\"\" class=aed cat=aed>AED (Automated External Defibrillator)</a></div><div class=\"amenitieslist aed\"><p><a class=\"bizlink biz_aed\" href=\"\" uid=\"20bed15b-84b2-4c25-ab73-1e0cb4b7d1aa\" index=0>AED - CEE - B23</a>, N1-B3A (OUTSIDE ENVIRONMENT LABORATORY)</p><p><a class=\"bizlink biz_aed\" href=\"\" uid=\"790c31bd-7257-4e71-8291-3503f7a81e9d\" index=1>AED - CEE - B49</a>, N1-1A (OUTSIDE CEE)</p><p><a class=\"bizlink biz_aed\" href=\"\" uid=\"9f60417f-d59f-49c4-b47e-18573b8051eb\" index=2>AED - CSD - B19</a>, NS1-B1-01</p><p><a class=\"bizlink biz_aed\" href=\"\" uid=\"9a98c73e-04a5-4b66-8698-d8d7401f5345\" index=3>AED - LT2A - A82</a>, 01-01</p><p><a class=\"bizlink biz_aed\" href=\"\" uid=\"cb4bcf78-a27e-4d15-97c1-52ed88b2498e\" index=4>AED - SCSE - B13</a>, N4-2 (SCSE MAIN ENTRANCE, ON LEFT HAND SIDE, BESIDE MALE TOILET NS4-02-T19)</p></div><div class=\"amenitiesheader bus\"><img src=\"/static/img/2/icon/panel/amenities/bus.png?v=40eeb\"><a href=\"\" class=bus cat=bus>Bus Stops</a></div><div class=\"amenitieslist bus\"><p><a class=\"bizlink biz_bus\" href=\"\" uid=\"23dfa5cc-e43c-4a46-9fca-2e8775794f5b\" index=5>Bus stop at Administration Building (63737)</a></p><p><a class=\"bizlink biz_bus\" href=\"\" uid=\"2d5a9c8a-ac6a-40a0-97f0-9ba0ddc22dcc\" index=6>Bus stop opp Lee Wee Nam Library & Canteen A / Outside NIE (27219)</a></p><p><a class=\"bizlink biz_bus\" href=\"\" uid=\"16809be7-d966-474f-8893-e0bb2e7a0f46\" index=7>Bus stop outside Canteen A & Lee Wee Nam Library / Opp NIE (27211)</a></p></div><div class=\"amenitiesheader carpark\"><img src=\"/static/img/2/icon/panel/amenities/carpark.png?v=d7aa6\"><a href=\"\" class=carpark cat=carpark>Carparks</a></div><div class=\"amenitieslist carpark\"><p><a class=\"bizlink biz_carpark\" href=\"\" uid=\"3d18cb38-e3f1-460b-82b0-ef58cf9939ce\" index=8>Carpark A (Zone 1)</a>, NS1-01</p><p><a class=\"bizlink biz_carpark\" href=\"\" uid=\"411e50fb-c1b3-42ee-b11f-c4b4651db24d\" index=9>Carpark C (Zone 2a)</a>, NS4-01</p><p><a class=\"bizlink biz_carpark\" href=\"\" uid=\"b16a1f5c-13f1-4886-b39b-66998447b5e0\" index=10>Carpark D (Zone 2b)</a>, N2-B5</p></div><div class=\"amenitiesheader atm\"><img src=\"/static/img/2/icon/panel/amenities/atm.png?v=ab8ec\"><a href=\"\" class=atm cat=atm>ATM & Self-Service Machines</a></div><div class=\"amenitieslist atm\"><p><a class=\"bizlink biz_atm\" href=\"\" uid=\"dd091220-a597-46bd-a830-a01eb91f29cf\" index=11>OCBC Bank - NTU Branch</a>, NS3-01-01</p><p><a class=\"bizlink biz_atm\" href=\"\" uid=\"15d80647-94bc-4790-bffc-67e7f5cbae69\" index=12>Photo-Me Machine - North Spine</a>, NS3-02</p><p><a class=\"bizlink biz_atm\" href=\"\" uid=\"86961ab1-a177-4560-9361-29db1ab6c4b2\" index=13>Self Service Automated Machine (SAM) - North Spine</a>, NS3-02</p></div><div class=\"amenitiesheader cafe\"><img src=\"/static/img/2/icon/panel/amenities/cafe.png?v=7e49a\"><a href=\"\" class=cafe cat=cafe>Food & Beverages</a></div><div class=\"amenitieslist cafe\"><p><a class=\"bizlink biz_cafe\" href=\"\" uid=\"9f1c75ea-052b-4696-bceb-96593b8acca9\" index=14>McDonald's</a>, N2.1-01-08</p><p><a class=\"bizlink biz_cafe\" href=\"\" uid=\"68c2336a-cc4e-47a9-9519-5b8a176cb156\" index=15>Mr Bean</a>, NS3-01-16</p><p><a class=\"bizlink biz_cafe\" href=\"\" uid=\"b054902a-907c-4057-b78f-f07f3a01a236\" index=16>Paik's Bibim</a>, NS3-01-15</p><p><a class=\"bizlink biz_cafe\" href=\"\" uid=\"22e076da-c928-414a-92c9-511b1dfe0a6c\" index=17>Subway</a>, N2.1-01-07</p><p><a class=\"bizlink biz_cafe\" href=\"\" uid=\"27e5b3e9-e8a8-4dfd-b6df-6a8112981446\" index=18>The Soup Spoon Union</a>, NS3-01-14</p></div><div class=\"amenitiesheader health\"><img src=\"/static/img/2/icon/panel/amenities/health.png?v=850c5\"><a href=\"\" class=health cat=health>Health & Childcare</a></div><div class=\"amenitieslist health\"><p><a class=\"bizlink biz_health\" href=\"\" uid=\"1837e1be-aecd-459b-bbe1-524c1cf4f951\" index=19>Fullerton Healthcare</a></p><p><a class=\"bizlink biz_health\" href=\"\" uid=\"8254e2a8-2c67-4bb8-af14-183877d8e34d\" index=20>Fullerton-Coden Dental</a></p><p><a class=\"bizlink biz_health\" href=\"\" uid=\"089c0c1e-947f-46f6-a8d9-f9e84565adb9\" index=21>Learning Vision</a></p><p><a class=\"bizlink biz_health\" href=\"\" uid=\"d2dd557c-eda1-49c3-8220-c39e10890145\" index=22>NTU Chinese Medicine Clinic</a>, SBS-01S-68</p></div><div class=\"amenitiesheader retail\"><img src=\"/static/img/2/icon/panel/amenities/retail.png?v=04f9a\"><a href=\"\" class=retail cat=retail>Retail & Service Outlets</a></div><div class=\"amenitieslist retail\"><p><a class=\"bizlink biz_retail\" href=\"\" uid=\"e0111c14-c10f-4f4d-b17b-5cd092fa36b2\" index=23>Flower Cottage by Noel</a>, NS3-01-11</p><p><a class=\"bizlink biz_retail\" href=\"\" uid=\"02a0dd1f-5b3c-4827-8b9b-ec4770c047c2\" index=24>Photocopying Services - Block N1</a>, N1-B1A</p><p><a class=\"bizlink biz_retail\" href=\"\" uid=\"53377dbc-2347-490f-927c-9ce44c1454cb\" index=25>Post Box - North Spine</a>, NS3-02</p></div><div class=\"amenitiesheader landmark\"><img src=\"/static/img/2/icon/panel/amenities/landmark.png?v=04d98\"><a href=\"\" class=landmark cat=landmark>Landmarks</a></div><div class=\"amenitieslist landmark\"><p><a class=\"bizlink biz_landmark\" href=\"\" uid=\"266d9fa4-8fc2-479a-833b-be225a5d978d\" index=26>Administration Building</a></p><p><a class=\"bizlink biz_landmark\" href=\"\" uid=\"d2575aa5-c934-4ec3-a498-5ec56951fb4b\" index=27>North Spine</a></p><p><a class=\"bizlink biz_landmark\" href=\"\" uid=\"13e36993-e125-4aa9-93f0-2cef31a95a37\" index=28>The Quad</a></p></div><div class=\"amenitiesheader sports\"><img src=\"/static/img/2/icon/panel/amenities/sports.png?v=75b93\"><a href=\"\" class=sports cat=sports>Sports & Recreation</a></div><div class=\"amenitieslist sports\"><p><a class=\"bizlink biz_sports\" href=\"\" uid=\"cfd43fdd-6f80-4488-a9d6-47d76dd0fc6f\" index=29>Sports Facilities in NIE</a></p><p><a class=\"bizlink biz_sports\" href=\"\" uid=\"12c6a4ab-7d3e-4ebd-95fc-0d13fa816fd7\" index=30>Sports and Recreation Centre (SRC)</a></p></div></div>",
+    "markers": [
+      {
+        "draggable": true,
+        "latlng": [
+          1.34610897591,
+          103.68084879437
+        ],
+        "html": "<hr id=head style=\"background-color:##a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Tutorial Room + 33\">Tutorial Room + 33</a></h4><div>Block NS2, NS2-05-26</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34610897591,103.680848794\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "",
+        "icon": {
+          "image": "/static/img/2/icon/map/a.png",
+          "top": 0,
+          "height": 55,
+          "width": 34,
+          "infoWindowAnchor": [
+            0,
+            0
+          ],
+          "anchor": [
+            17,
+            55
+          ],
+          "transparent": "/static/img/2/icon/map/transparent.png"
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34572457939,
+          103.68019426896
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:AED - CEE - B23\">AED - CEE - B23</a></h4><div>N1-B3A (OUTSIDE ENVIRONMENT LABORATORY), Block N1</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34572457939,103.680194269\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "AED - CEE - B23",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/aed.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34561615066,
+          103.68074885615
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:AED - CEE - B49\">AED - CEE - B49</a></h4><div>N1-1A (OUTSIDE CEE), Block N1</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34561615066,103.680748856\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "AED - CEE - B49",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/aed.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34559125188,
+          103.68082086114
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:AED - CSD - B19\">AED - CSD - B19</a></h4><div>NS1-B1-01, Block NS1</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34559125188,103.680820861\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "AED - CSD - B19",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/aed.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34657538442,
+          103.68137129961
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:AED - LT2A - A82\">AED - LT2A - A82</a></h4><div>01-01, LT2A</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34657538442,103.6813713\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "AED - LT2A - A82",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/aed.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34613157481,
+          103.68134356082
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:AED - SCSE - B13\">AED - SCSE - B13</a></h4><div>N4-2 (SCSE MAIN ENTRANCE, ON LEFT HAND SIDE, BESIDE MALE TOILET NS4-02-T19), Block N4</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34613157481,103.681343561\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "AED - SCSE - B13",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/aed.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.3448626730898174,
+          103.6817505738541
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Bus stop at Administration Building (63737)\">Bus stop at Administration Building (63737)</a></h4><div></div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34486267309,103.681750574\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Bus stop at Administration Building (63737)",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/bus.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.3479870291432416,
+          103.68041554371487
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Bus stop opp Lee Wee Nam Library & Canteen A / Outside NIE (27219)\">Bus stop opp Lee Wee Nam Library & Canteen A / Outside NIE (27219)</a></h4><div></div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34798702914,103.680415544\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Bus stop opp Lee Wee Nam Library & Canteen A / Outside NIE (27219)",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/bus.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.3479673688554126,
+          103.68075417485944
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Bus stop outside Canteen A & Lee Wee Nam Library / Opp NIE (27211)\">Bus stop outside Canteen A & Lee Wee Nam Library / Opp NIE (27211)</a></h4><div></div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34796736886,103.680754175\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Bus stop outside Canteen A & Lee Wee Nam Library / Opp NIE (27211)",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/bus.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34496890329,
+          103.68103568033
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Carpark A (Zone 1)\">Carpark A (Zone 1)</a></h4><div>NS1-01, Block NS1</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34496890329,103.68103568\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Carpark A (Zone 1)",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/carpark.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34556007515,
+          103.6817552818
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Carpark C (Zone 2a)\">Carpark C (Zone 2a)</a></h4><div>NS4-01, Block NS4</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34556007515,103.681755282\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Carpark C (Zone 2a)",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/carpark.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.345333,
+          103.679883
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Carpark D (Zone 2b)\">Carpark D (Zone 2b)</a></h4><div>N2-B5, Block N2</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.345333,103.679883\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Carpark D (Zone 2b)",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/carpark.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.347371377,
+          103.6807205148
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:OCBC Bank - NTU Branch\">OCBC Bank - NTU Branch</a></h4><div>NS3-01-01, Block NS3</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.347371377,103.680720515\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "OCBC Bank - NTU Branch",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/atm.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34702848134,
+          103.68082643957
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Photo-Me Machine - North Spine\">Photo-Me Machine - North Spine</a></h4><div>NS3-02, Block NS3</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34702848134,103.68082644\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Photo-Me Machine - North Spine",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/atm.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34701972232,
+          103.68082656196
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Self Service Automated Machine (SAM) - North Spine\">Self Service Automated Machine (SAM) - North Spine</a></h4><div>NS3-02, Block NS3</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34701972232,103.680826562\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Self Service Automated Machine (SAM) - North Spine",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/atm.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34687649295,
+          103.68038359817
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:McDonald's\">McDonald's</a></h4><div>N2.1-01-08, Block N2.1, 76 Nanyang Drive, Singapore 637331</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34687649295,103.680383598\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "McDonald's",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/cafe.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34717392345,
+          103.68078999109
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Mr Bean\">Mr Bean</a></h4><div>NS3-01-16, Block NS3</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34717392345,103.680789991\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Mr Bean",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/cafe.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34714083306,
+          103.68079943923
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Paik's Bibim\">Paik's Bibim</a></h4><div>NS3-01-15, Block NS3</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34714083306,103.680799439\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Paik's Bibim",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/cafe.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34687634376,
+          103.68036277351
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Subway\">Subway</a></h4><div>N2.1-01-07, Block N2.1, 76 Nanyang Drive, Singapore 637331</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34687634376,103.680362774\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Subway",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/cafe.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.3471211599,
+          103.68080435752
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:The Soup Spoon Union\">The Soup Spoon Union</a></h4><div>NS3-01-14, Block NS3</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.3471211599,103.680804358\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "The Soup Spoon Union",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/cafe.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34539118289,
+          103.68287115643
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Fullerton Healthcare\">Fullerton Healthcare</a></h4><div>University Health Service Building, 36 Nanyang Avenue, Singapore 639801</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34539118289,103.682871156\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Fullerton Healthcare",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/health.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34540751622,
+          103.68286011643
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Fullerton-Coden Dental\">Fullerton-Coden Dental</a></h4><div>University Health Service Building, 36 Nanyang Avenue, Singapore 639801</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34540751622,103.682860116\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Fullerton-Coden Dental",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/health.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.35305338855,
+          103.68923814298
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Learning Vision\">Learning Vision</a></h4><div>94 Nanyang Crescent, Singapore 637034</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.35305338855,103.689238143\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Learning Vision",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/health.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34457556924,
+          103.67945086139
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:NTU Chinese Medicine Clinic\">NTU Chinese Medicine Clinic</a></h4><div>SBS-01S-68, School of Biological Sciences (SBS), 60 Nanyang Drive, Singapore 637551</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34457556924,103.679450861\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "NTU Chinese Medicine Clinic",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/health.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34710171414,
+          103.68080672821
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Flower Cottage by Noel\">Flower Cottage by Noel</a></h4><div>NS3-01-11, Block NS3</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34710171414,103.680806728\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Flower Cottage by Noel",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/retail.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34564366475,
+          103.68069970945
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Photocopying Services - Block N1\">Photocopying Services - Block N1</a></h4><div>N1-B1A, Block N1</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34564366475,103.680699709\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Photocopying Services - Block N1",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/retail.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34701073885,
+          103.68082687312
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Post Box - North Spine\">Post Box - North Spine</a></h4><div>NS3-02, Block NS3</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34701073885,103.680826873\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Post Box - North Spine",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/retail.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34446876284,
+          103.68125592622
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Administration Building\">Administration Building</a></h4><div>50 Nanyang Avenue, Singapore 639798</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34446876284,103.681255926\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Administration Building",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/landmark.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34639216736,
+          103.68105566238
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:North Spine\">North Spine</a></h4><div></div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34639216736,103.681055662\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "North Spine",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/landmark.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.34469256807,
+          103.68010605371
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:The Quad\">The Quad</a></h4><div></div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.34469256807,103.680106054\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "The Quad",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/landmark.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.349332,
+          103.677327
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Sports Facilities in NIE\">Sports Facilities in NIE</a></h4><div>National Institute of Education (NIE) - Building 5 (Physical Education)</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.349332,103.677327\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Sports Facilities in NIE",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/sports.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      },
+      {
+        "draggable": false,
+        "latlng": [
+          1.349668,
+          103.688779
+        ],
+        "html": "<hr id=head style=\"background-color:#a30f0e\"><div class=\"eiw_location\"><h4><a href=\"/maps#q:Sports and Recreation Centre (SRC)\">Sports and Recreation Centre (SRC)</a></h4><div>20 Nanyang Green, Singapore 637715</div><div class=msb><p><a id=\"tooldt_eiw\" class=\"sel\" href=\"\" value=To query=\"from $v to $q\">directions to here</a> <a id=\"tooldf_eiw\" class=\"\" href=\"\" value=From query=\"from $q to $v\">directions from here</a></p><div id=\"minibar_eiw\"><div id=\"search_tip_eiw\"></div><form class=msf id=\"eiw_form\"><span class=sel id=toolsf_eiw>Starting from</span><span id=toolea_eiw>Ending at</span><input id=eiw_directionmini type=text><input id=eiw_directionminisend type=\"submit\" value=\"\"><input id=eiw_locationvalue type=hidden value=\"1.349668,103.688779\"><input id=eiw_hidden type=\"hidden\" value=\"\"/></form></div></div></div>",
+        "tooltip": "Sports and Recreation Centre (SRC)",
+        "icon": {
+          "image": "/static/img/2/icon/panel/amenities/sports.png",
+          "top": 0,
+          "height": 20,
+          "width": 20,
+          "infoWindowAnchor": [
+            2,
+            -20
+          ],
+          "anchor": [
+            10,
+            8
+          ]
+        }
+      }
+    ],
+    "name": "tutorial room + 33"
+  },
+  "type": "LOCATION"
+}
